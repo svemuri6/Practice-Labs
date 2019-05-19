@@ -1,0 +1,16 @@
+*{ 
+  background-color: blueviolet; 
+}
+
+section article ol li {
+  background-color: white; 
+}
+
+a{
+  text-decoration: none; 
+  color :white; 
+}
+
+#Orange{
+  background-color: pink; 
+}
