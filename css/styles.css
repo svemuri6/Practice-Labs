@@ -1,16 +1,33 @@
+
+
 *{ 
-  background-color: blueviolet; 
+  background-color: whitesmoke; 
 }
 
-section article ol li {
-  background-color: white; 
+a {
+  float: right;
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  color: black; 
 }
 
-a{
-  text-decoration: none; 
-  color :white; 
+h1{ 
+float: left;
 }
 
-#Orange{
-  background-color: pink; 
+#profile{
+width:100%; 
+padding:40px; 
+margin: 40px; 
+background-color: yellowgreen; 
+}
+
+#section {
+    width: 462px;
+    background: #ebebeb;
+    float: bottom;
+    color: #777;
+    padding: 20px 20px 20px 20px;
+    margin: 0px 0 0 0;
 }
